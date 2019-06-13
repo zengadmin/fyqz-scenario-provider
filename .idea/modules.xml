@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fyqz-scenario-provider.iml" filepath="$PROJECT_DIR$/fyqz-scenario-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fyqz-scenario-provider-api/fyqz-scenario-provider-api.iml" filepath="$PROJECT_DIR$/fyqz-scenario-provider-api/fyqz-scenario-provider-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fyqz-server-scenario/fyqz-server-scenario.iml" filepath="$PROJECT_DIR$/fyqz-server-scenario/fyqz-server-scenario.iml" />
+    </modules>
+  </component>
+</project>
