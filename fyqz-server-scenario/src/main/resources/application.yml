@@ -1,8 +1,6 @@
 spring:
   application:
     name: fyqz-server-scenario # 服务提供者的应用服务名称（服务调用者是通过调用此服务名（sea-service-user）来实现服务调用的，与域名和端口号没有关系了）
-    zipkin:
-      base-url: http://127.0.0.1:9411
    #服务监控
   boot:
     admin:
